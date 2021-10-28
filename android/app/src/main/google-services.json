@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "project_number": "691616981738",
+    "firebase_url": "https://need-7f7db.firebaseio.com",
+    "project_id": "need-7f7db",
+    "storage_bucket": "need-7f7db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691616981738:android:e455e4ce9d9af7354a2d93",
+        "android_client_info": {
+          "package_name": "com.needindonesia.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691616981738-kif5c3o473tplv9j1lvgqncfkou63f1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.needindonesia.admin",
+            "certificate_hash": "e911f22229c0ce77b4333204f19805a5c01840a4"
+          }
+        },
+        {
+          "client_id": "691616981738-2gosios7re45bqjk9hnigg985qdiba8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8W_DvO0qhA-9oFlYY5n-MSCAZhxTOQ1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691616981738-2gosios7re45bqjk9hnigg985qdiba8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691616981738-hl24p5bdfgt0oiuf3s2n1u53k0eku3p4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.needMitra"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691616981738:android:e515c1403d5789394a2d93",
+        "android_client_info": {
+          "package_name": "com.needindonesia.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691616981738-6vvqdvr39kfka7tu26qg003ef8emeh1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.needindonesia.customer",
+            "certificate_hash": "c093c075142a3a9ef178d6f6aebd57c870b98043"
+          }
+        },
+        {
+          "client_id": "691616981738-kc88uiu6hfaptq81or20qb7nefjucamv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.needindonesia.customer",
+            "certificate_hash": "3c64b40311a527456cf15490d1078fdb912abbc9"
+          }
+        },
+        {
+          "client_id": "691616981738-tp9kq9939lk0tq9oceoq12odb0thhhfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.needindonesia.customer",
+            "certificate_hash": "e911f22229c0ce77b4333204f19805a5c01840a4"
+          }
+        },
+        {
+          "client_id": "691616981738-2gosios7re45bqjk9hnigg985qdiba8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8W_DvO0qhA-9oFlYY5n-MSCAZhxTOQ1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691616981738-2gosios7re45bqjk9hnigg985qdiba8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691616981738-hl24p5bdfgt0oiuf3s2n1u53k0eku3p4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.needMitra"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691616981738:android:f4c34b32c6ecdfe64a2d93",
+        "android_client_info": {
+          "package_name": "com.needindonesia.need_mitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691616981738-ov2fb2b0jh49tsdp8492mn663fh5t1f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.needindonesia.need_mitra",
+            "certificate_hash": "5d0efad101c36171d1db1d74290e2626dce5f134"
+          }
+        },
+        {
+          "client_id": "691616981738-amtladrkokklehlur83uut2a3h2m4tlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.needindonesia.need_mitra",
+            "certificate_hash": "e911f22229c0ce77b4333204f19805a5c01840a4"
+          }
+        },
+        {
+          "client_id": "691616981738-edh91a08j03rtfge1gpnhbm6ght06d3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.needindonesia.need_mitra",
+            "certificate_hash": "3c64b40311a527456cf15490d1078fdb912abbc9"
+          }
+        },
+        {
+          "client_id": "691616981738-2gosios7re45bqjk9hnigg985qdiba8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8W_DvO0qhA-9oFlYY5n-MSCAZhxTOQ1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691616981738-2gosios7re45bqjk9hnigg985qdiba8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691616981738-hl24p5bdfgt0oiuf3s2n1u53k0eku3p4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.needMitra"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691616981738:android:c75c44fe733e76044a2d93",
+        "android_client_info": {
+          "package_name": "com.needindonesia.utama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691616981738-5gvtpiju4m00dtbst0ni621mtoto82bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.needindonesia.utama",
+            "certificate_hash": "3c64b40311a527456cf15490d1078fdb912abbc9"
+          }
+        },
+        {
+          "client_id": "691616981738-2gosios7re45bqjk9hnigg985qdiba8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8W_DvO0qhA-9oFlYY5n-MSCAZhxTOQ1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691616981738-2gosios7re45bqjk9hnigg985qdiba8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691616981738-hl24p5bdfgt0oiuf3s2n1u53k0eku3p4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.needMitra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
